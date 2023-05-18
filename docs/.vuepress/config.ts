@@ -115,6 +115,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
           { text: '面试', link: '/cata/mianshi/' },
           { text: '工具', link: '/cata/gongju/' },
           { text: '项目', link: '/cata/pro/' },
+          { text: '关于', link: '/pages/f2e63f/' },
         ],
       },
 
