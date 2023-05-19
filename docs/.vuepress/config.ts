@@ -95,7 +95,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
         ]
       },
       {
-        text: '微服务',
+        text: '中间件',
         link: '/cloud/',
         items: [
           { text: 'SpringCloudAlibaba', link: '/cata/alibaba/' },
