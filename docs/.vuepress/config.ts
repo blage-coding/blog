@@ -225,7 +225,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
       author: {
         name: 'phan',
         link: 'https://gitee.com/blage-coding'
-      }
+      },
     },
 
     // 自定义hmtl(广告)模块
