@@ -78,18 +78,18 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
         link: '/mysql/',
         items: [
           {
+            text: 'MySQL',
+            items: [
+              { text: '基础部分', link: '/mysql/' },
+              { text: '实战优化', link: '/mysql/' },
+            ]
+          },
+          {
             text: 'ORM框架',
             items: [
               { text: 'Mybatis', link: '/pages/41f194/' },
               { text: 'Mybatis_Plus', link: '/pages/b188b3/' },
 
-            ]
-          },
-          {
-            text: 'MySQL',
-            items: [
-              { text: '基础部分', link: '/mysql/' },
-              { text: '实战优化', link: '/mysql/' },
             ]
           },
         ]
