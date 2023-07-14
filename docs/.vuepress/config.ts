@@ -81,7 +81,8 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
             text: 'MySQL',
             items: [
               { text: '基础部分', link: '/mysql/' },
-              { text: '实战优化', link: '/mysql/' },
+              { text: '实战与处理方案', link: '/mysql/' },
+              { text: '面试', link: '/mysql/' },
             ]
           },
           {
