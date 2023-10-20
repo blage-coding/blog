@@ -16,7 +16,7 @@ features: # 可选的
     link: /leetcode/
     imgUrl: /img/thunder.png
   - title: 知识输出
-    details: 记忆的天语转瞬即逝，更需要对所学加以总结，将知识的炽炎猛烈输出，在记录与交流中激情咏唱，增进技术理解与消化。
+    details: 记忆的天语转瞬即逝，更需要对所学加以总结，将知识的炽炎猛烈输出，在无尽咒海中激情咏唱，增进技术理解与运用。
     link: /cloud/
     imgUrl: /img/fire.png
 
