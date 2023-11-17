@@ -70,6 +70,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
           { text: 'Redis基础', link: '/cata/redisbasic/' },
           { text: '源码分析', link: '/cata/redisanalyse/' },
           { text: '实战应用', link: '/redis/' },
+          { text: '单机缓存', link: '/redis/' },
         ]
 
       },
