@@ -8,7 +8,6 @@ const matter = require('gray-matter'); // FrontMatter解析器 https://github.co
 const readFileList = require('./modules/readFileList');
 const urlsRoot = path.join(__dirname, '..', 'urls.txt'); // 百度链接推送文件
 const DOMAIN = process.argv.splice(2)[0]; // 获取命令行传入的参数
-
 if (DOMAIN) {
   main();
 } else {
